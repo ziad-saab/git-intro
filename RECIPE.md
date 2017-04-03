@@ -8,9 +8,3 @@ Here are some ingredients:
   * 1 tbsp paprika
   * 1 tbsp cumin
 
-# Tabbouleh
-
-  * parsley
-  * tomatoes
-  * white onions
-  * hemp seeds
