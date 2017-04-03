@@ -4,3 +4,4 @@
   * tomatoes
   * white onions
   * hemp seeds
+  * olive oil
