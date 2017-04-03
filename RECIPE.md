@@ -1,10 +1,9 @@
-# Mediterranean meatloaf
+# Welcome to recipes website!
 
-Here are some ingredients:
+## Meat
 
-  * red peppers
-  * red onions
-  * ground lamb
-  * 1 tbsp paprika
-  * 1 tbsp cumin
+  * Meatloaf
 
+## Vegetarian
+
+  * Tabbouleh
